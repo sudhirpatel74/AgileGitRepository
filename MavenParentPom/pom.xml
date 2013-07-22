@@ -188,12 +188,6 @@
 					<downloadJavadocs>true</downloadJavadocs>
 				</configuration>
 			</plugin>
-
-		
 		</plugins>
 	</build>
-
-	<modules>
-		<module>../agileCore</module>
-	</modules>
 </project>
